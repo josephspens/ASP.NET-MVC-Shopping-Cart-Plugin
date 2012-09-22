@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<heroes>
+  <hero name="Superman" publisher="DC" />
+  <hero name="Batman" publisher="DC" />
+  <hero name="Spiderman" publisher="Marvel" />
+  <hero name="Thor" publisher="Marvel" />
+  <hero name="Iron Man" publisher="Marvel" />
+</heroes>

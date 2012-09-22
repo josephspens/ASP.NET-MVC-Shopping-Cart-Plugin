@@ -1,0 +1,5 @@
+Z:\joseph On My Mac\Development\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+Z:\joseph On My Mac\Development\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+Z:\joseph On My Mac\Development\ShoppingCart\ShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+Z:\joseph On My Mac\Development\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+Z:\joseph On My Mac\Development\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb

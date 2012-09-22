@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<heroes>
+  <hero name="Superman" publisher="DC Comics" />
+  <hero name="Batman" publisher="DC Comics" />
+  <hero name="Spiderman" publisher="Marvel Comics" />
+  <hero name="Thor" publisher="Marvel Comics" />
+  <hero name="Hulk" publisher="Marvel Comics" />
+  <hero name="Captain America" publisher="Marvel Comics" />
+  <hero name="Wolverine" publisher="Marvel Comics" />
+  <hero name="Green Lantern" publisher="DC Comics" />
+  <hero name="Flash" publisher="DC Comics" />
+</heroes>
