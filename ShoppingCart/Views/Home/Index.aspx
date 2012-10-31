@@ -7,5 +7,4 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <!--<h2><%: ViewData["Message"] %></h2>-->
     <h2>Some message about this application...</h2>
-
 </asp:Content>

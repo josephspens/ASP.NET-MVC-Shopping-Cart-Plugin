@@ -1,0 +1,17 @@
+﻿#container { margin:0px auto;width:1040px; }
+
+header hgroup { text-align:center;margin:20px 0px; }
+header h1,
+header h2 { margin:0px;padding:0px; }
+header h1 { font-size:3em; }
+header h2 { font-size:1.8em }
+
+nav { margin:0px; }
+nav ul { list-style-type:none;width:300px;margin:0px auto;padding:0px; }
+nav ul li { display:inline-block;margin:10px 15px; }
+
+section ul { overflow:hidden;padding:0px;margin:0px;list-style-type:none; }
+section ul li { float:left;margin:0 10px 10px 0;width:190px;padding:5px;background-color:rgba(0,0,255,.2); }
+section ul li:nth-child(5n) { margin-right:0px; }
+section ul li h3 { margin:10px 0 0 0; }
+section ul li h4 { margin:0px; }
